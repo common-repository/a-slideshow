@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: (a) Slideshow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-14 17:41+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Anton Shevchuk <Anton.Shevchuk@gmail.com>\n"
+"Language-Team: Anton Shevchuk <Anton.Shevchuk@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_c;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: W:\\www\\wordpress\\wp-content\\plugins\\a-slideshow\n"
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-widget.php:98
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:170
+msgid "Title"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-widget.php:102
+msgid "Options (<a href=\"http://slideshow.hohli.com\">examples</a>, separate parameters with commas)"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-widget.php:107
+msgid "Content (HTML)"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow.php:259
+msgid "(a)SlideShow"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow.php:276
+msgid "Settings"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:86
+msgid "Settings Updated"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:88
+msgid "No Option Updated"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:101
+msgid "(a)SlideShow Options"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:107
+msgid "This is plugin based on <a href=\"http://slideshow.hohli.com\">(a)Slideshow jQuery plugin</a>."
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:110
+msgid "You can change setting for any slideshow (different from <a href=\"#global\">global settings</a>), use next syntax:"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:119
+msgid "Where %options% - is settings for (a)Slideshow jQuery Plugin - example:"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:129
+msgid "See more examples on <a href=\"http://slideshow.hohli.com\">projects homepage</a>."
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:135
+msgid "Global Settings"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:137
+msgid "Theme"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:146
+msgid "Width"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:146
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:152
+msgid "in px"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:152
+msgid "Height"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:158
+msgid "Time"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:158
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:291
+msgid "in ms"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:164
+msgid "History"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:164
+msgid "check location hash"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:170
+msgid "show title bar"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:176
+msgid "Title always show"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:176
+msgid "show or use autohide"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:182
+msgid "Panel"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:182
+msgid "show control bar"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:202
+msgid "Panel Buttons"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:210
+msgid "Auto Hide"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:216
+msgid "Play Button"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:224
+msgid "Go to First Slide"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:230
+msgid "Go to Last Slide"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:238
+msgid "Go to Prev Slide"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:244
+msgid "Go to Next Slide"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:252
+msgid "Show Help"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:258
+msgid "Show Counter"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:266
+msgid "Play"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:266
+msgid "autoplay"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:272
+msgid "Effect"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:272
+msgid "between slides"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:291
+msgid "Effect Time"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:297
+msgid "Filter"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:297
+msgid "remove &lt;br/&gt;, empty &lt;div&gt;, &lt;p&gt; and other stuff"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:303
+msgid "Next on click"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:309
+msgid "Play/stop on click"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:315
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:321
+msgid "Play/stop on hover"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:321
+msgid "reverse"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:327
+msgid "Play frame"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:327
+msgid "frame with big button"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:333
+msgid "Resize Images"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:333
+msgid "to slideshow size"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:339
+msgid "Image Zoom"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:339
+msgid "zoom to smaller side and crop other"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:345
+msgid "Image to center"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:351
+msgid "Load Images"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:351
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:357
+msgid "from links &lt;a&gt;"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:357
+msgid "Load HTML"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:364
+msgid "Help Message"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:364
+msgid "any text or HTML"
+msgstr ""
+
+#: W:\www\wordpress\wp-content\plugins\a-slideshow/a-slideshow-options.php:371
+msgid "Save Changes"
+msgstr ""
+
